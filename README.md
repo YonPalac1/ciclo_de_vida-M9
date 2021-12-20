@@ -5,7 +5,7 @@
 
 <img src="https://github.com/YonPalac1/ciclo_de_vida-M9/blob/master/public/img1.png">
 <img src="https://github.com/YonPalac1/ciclo_de_vida-M9/blob/master/public/img2.png">
-
+ 
 <hr>
 # Getting Started with Create React App
 
