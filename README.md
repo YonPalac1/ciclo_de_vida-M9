@@ -1,3 +1,12 @@
+# Ciclo de vida de Componentes
+## Práctica Integradora / Digital House
+
+<a href="">Ver PDF del desafio</a>
+
+<img src="https://github.com/YonPalac1/ciclo_de_vida-M9/blob/master/public/img1.png">
+<img src="https://github.com/YonPalac1/ciclo_de_vida-M9/blob/master/public/img2.png">
+
+<hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
